@@ -10,14 +10,14 @@
   <img src="https://telegra.ph/file/7b375b3abb0b483fd0d98.jpg">
 </p>
 
-## Found Me On Telegram [@JisooXRobot](https://t.me/AnosVoldigoadBot)
-
-
-
+## Menemukan Saya Di Telegram [@JisooXRobot] (https://t.me/AnosVoldigoadBot)
+saya
+saya
+saya
 # DEPLOY
 
-< p  align = "center" >< a  href = " https://github.com/jsrvnt/JisooXRobot/edit/main/README.md " >
-  <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-aqua?style=flat&logo=heroku" width="325" height="50.100" /></a></p>
+< p align = "center" >< a href = " https://github.com/jsrvnt/JisooXRobot " >
+  < img  src = " https://img.shields.io/badge/Deploy%20To%20Heroku-aqua?style=flat&logo=heroku "  lebar = "325"  tinggi = "50.100"  /> </a></p >
 
 ## Group Support:
 
